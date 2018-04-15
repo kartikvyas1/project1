@@ -1,2 +1,5 @@
 # project1
-github tutorial
+github tutorials
+
+this repository is my first git project on github
+
